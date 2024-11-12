@@ -1,0 +1,72 @@
+.profile{
+}
+
+.profile_information{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;  
+    padding: 6px 16px 0 16px;
+    margin-bottom: 24px;
+}
+
+.profile_information_theme{
+
+}
+
+.profile_information_language{
+
+}
+
+.profile_information_main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.profile_information_main_avatar{
+    position: relative;
+}
+
+.profile_information_main_avatar img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.profile_information_main_avatar .chip {
+    display: flex;
+    justify-content: center;
+}
+
+.profile_information_main_avatar .chip span{
+    background-color: var(--color-label-secondary);
+    border: 2px solid var(--color-bg);
+    padding: 0 8px;
+    border-radius: 100px;
+    color: #fff;
+    position: absolute;
+    bottom: -15px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.1px;
+}
+
+.profile_information_main_name{
+    margin: 20px 0 4px 0;
+}
+
+.profile_information_main_gifts{
+
+}
+
+.profile_information_main_history{
+    margin-top: 24px;
+    cursor: pointer;
+}
+
+.profile_information_main_history span {
+    margin-left: 7.5px;
+}

@@ -1,0 +1,48 @@
+{
+    "store.title": "Buy and Send Gifts",
+    "store.subtitle": "Unique gifts for everyone by Crypto Pay.",
+
+    "store.buyGift.description": "Purchase this gift for the opportunity to give it to another user.",
+    "store.buyGift.primaryButton": "Buy a Gift",
+    "store.buyGift.actions": "Recently Actions",
+    "store.buyGift.actions.buy": "bought a gift",
+    "store.buyGift.actions.send": "send gift to",
+
+    "gifts.title": "Send Gifts in Telegram",
+    "gifts.subtitle": "Send gifts to users that can be stored in their app profile.",
+    "gifts.empty": "You don't have any gifts yet.",
+    "gifts.empty.link": "Open Store",
+
+    "gifts.popup.title": "Send Gift",
+    "gifts.popup.primaryButton": "Send Gift to Contact",
+    "gifts.popup.info.name": "Gift",
+    "gifts.popup.info.date": "Date",
+    "gifts.popup.info.price": "Price",
+    "gifts.popup.info.availability": "Availability",
+
+    "leaderboard.you": "You",
+    "leaderboard.gifts": "gifts",
+
+    "profile.giftsReceived": "gifts received",
+    "profile.recentActions": "Recent Actions",
+    "profile.empty": "The user does not have any gifts",
+    "profile.emptyMe": "You can buy a gift to receive a gift in return.",
+
+    "history.title": "Recent Actions",
+    "history.subtitle": "Here is your action history.",
+    "history.empty.primaryButton": "Open Store",
+    "history.empty.title": "History is Empty",
+    "history.empty.subtitlte": "Give and receive gifts so there's something here.",
+    "history.to": "to",
+    "history.from": "from",
+
+    "tab.store": "Store",
+    "tab.gifts": "Gifts",
+    "tab.leaderboard": "Leaderboard",
+    "tab.profile": "Profile",
+
+    "gift.send": "Send",
+    "gift.soldOut": "Sold Out",
+    "of": "of"
+
+}

@@ -1,0 +1,91 @@
+:root {
+    --color-white: #ffffff;
+    --color-black: #000000;
+    --color-primary: #007AFF;
+    --color-accent-blue: #007AFF;
+    --color-accent-cyan: #5AC8FA;
+    --color-accent-gold: #F1AA05;
+    --color-accent-purple: #AF51DE;
+    --color-accent-green: #35C759;
+    --color-icons: #959595;
+    --color-label-secondary: #8E8E93;
+    --color-label-date: #6D6D71;
+    --color-bg-notification: #2D2D2DCC;
+
+
+    --color-bg: #ffffff;
+    --color-text: #000000;
+    --color-bg-tabBar: #F1F1F2BF;
+    --color-label-tabBar: #545458A6;
+    --color-bg-secondary: #EFEFF3;
+    --color-bg-gift: #EFEFF3;
+    --color-bg-modal: #EFEFF3;
+    --color-bg-modal-info: #ffffff;
+    --color-bg-modal-close: #E3E3E8;
+    --color-bg-textfield: #EFEFF3;
+    --color-text-textfield: #3C3C4399;
+    --color-text-switch: #8E8E93;
+    --color-text-switch-active: #000000;
+    --color-bg-switch: #EFEFF3;
+    --color-bg-switch-active: #ffffff;
+    --color-separator: #3C3C435C;
+
+}
+
+[data-theme='dark'] {
+    --color-bg: #1C1C1E;
+    --color-text: #ffffff;
+    --color-bg-tabBar: #1E1E1EBF;
+    --color-label-tabBar: #ffffff66;
+    --color-bg-secondary: #2C2C2E;
+    --color-bg-gift: #2C2C2E;
+    --color-bg-modal: #1C1C1E;
+    --color-bg-modal-info: #2C2C2E;
+    --color-bg-modal-close: #2C2C2E;
+    --color-bg-textfield: #00000080;
+    --color-text-textfield: #8E8E93;
+    --color-text-switch: #8E8E93;
+    --color-text-switch-active: #ffffff;
+    --color-bg-switch: #000000;
+    --color-bg-switch-active: #2C2C2E;
+    --color-separator: #FFFFFF33;
+
+}
+
+.color-white { color: #ffffff; }
+.color-black { color: #000000; }
+.color-primary { color: #007AFF; }
+.color-accent-blue { color: #007AFF; }
+.color-accent-cyan { color: #5AC8FA; }
+.color-accent-gold { color: #F1AA05; }
+.color-accent-purple { color: #AF51DE; }
+.color-accent-green { color: #35C759; }
+.color-separator { color: #3C3C435C; }
+.color-icons { color: #959595; }
+.color-label-secondary { color: #8E8E93; }
+.color-label-tabBar { color: #545458A6; }
+.color-label-date { color: #6D6D71; }
+.color-bg-secondary { color: #EFEFF3; }
+.color-bg-notification { color: #2D2D2DCC; }
+.color-bg-tabBar { color: #F1F1F2BF; }
+
+.background-sent { background: #AF51DE; }
+.background-send { background: #35C759; }
+.background-buy { background: #007AFF; }
+.background-receive { background: #35C759; }
+    
+.gift-background-Delicious_Cake {
+    background: linear-gradient(180deg, rgba(254, 160, 65, 0.2) 0%, rgba(254, 159, 65, 0.1) 100%);
+}
+
+.gift-background-Green_Star {
+    background: linear-gradient(180deg, rgba(70, 209, 0, 0.2) 0%, rgba(70, 209, 0, 0.06) 100%);
+}
+
+.gift-background-Blue_Star {
+    background: linear-gradient(180deg, rgba(0, 122, 255, 0.2) 0%, rgba(0, 122, 255, 0.05) 100%);
+}
+
+.gift-background-Red_Star {
+    background: linear-gradient(180deg, rgba(255, 71, 71, 0.2) 0%, rgba(255, 71, 71, 0.05) 100%);
+}

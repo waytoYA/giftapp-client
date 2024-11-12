@@ -1,0 +1,15 @@
+.leaderboard{
+}
+
+.history_row_image {
+    width: 40px;
+    height: 40px;
+    padding: 4px;
+    border-radius: 10px;
+    object-fit: cover;
+    background-color: #EFEFF3;
+}
+
+.history_row_information_more{
+    font-size: 15px !important;
+}

@@ -1,0 +1,17 @@
+.textfield {
+    width: 100%;
+    background-color: var(--color-bg-textfield);
+    color: var(--color-text-textfield);
+    border-radius: 10px;
+    padding: 7px;
+    text-align: center;
+
+}
+
+.textfield::placeholder {
+    background: url('../../../images/icons/search.svg');
+    background-size: 15px;
+    background-position: calc(50% - 20px);
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}

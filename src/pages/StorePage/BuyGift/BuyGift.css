@@ -1,0 +1,42 @@
+.buyGift_information {
+    display: flex;
+    flex-direction: column;
+    margin: 12px 0;
+}
+
+.buyGift_information_text {
+    margin: 8px 0;
+}
+
+.buyGift_information_price {
+    display: flex;
+    align-items: center;
+}
+
+.buyGift_information_quantity {
+    display: inline;
+    color: var(--color-primary);
+    background: #007AFF1F;
+    padding: 0px 8px;
+    border-radius: 100px;
+    margin-left: 12px;
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.1px;
+}
+
+.line {
+    width: 100vw;
+    height: 12px;
+    background-color: var(--color-bg-secondary);
+}
+
+.buyGift_action_image {
+    width: 40px;
+    min-width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}

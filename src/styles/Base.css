@@ -1,0 +1,16 @@
+
+body {
+    font-family: "SF Pro Text", 'Arial';
+    background-color: var(--color-bg);
+    color: var(--color-text);
+}
+
+.container {
+    max-width: 393px;
+    margin: 0 auto;
+    margin-bottom: 92px;
+}
+
+.hidden {
+    display: none;
+}

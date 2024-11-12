@@ -1,0 +1,31 @@
+.emptyBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px 16px;
+    background-color: var(--color-bg-secondary);
+    border-radius: 12px;
+    margin: 0 16px;
+}
+
+.emptyBlock-history {
+    height: 100vh;
+    background: transparent;
+    justify-content: center;
+}
+
+.emptyBlock_image{
+    width: 100px;
+    height: 100px;
+}
+
+.emptyBlock_title{
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: -8px;
+}
+
+.emptyBlock_text{
+    text-align: center;
+    margin: 16px 0;
+}

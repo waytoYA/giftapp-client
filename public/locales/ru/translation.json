@@ -1,0 +1,48 @@
+{
+    "store.title": "Покупайте и отправляйте подарки",
+    "store.subtitle": "Уникальные подарки для всех от Crypto Pay.",
+
+    "store.buyGift.description": "Приобретайте этот подарок ради возможности подарить его другому пользователю.",
+    "store.buyGift.primaryButton": "Купить подарок",
+    "store.buyGift.actions": "Недавние действия",
+    "store.buyGift.actions.buy": "купил",
+    "store.buyGift.actions.send": "отправил",
+
+    "gifts.title": "Отправить подарок через Telegram",
+    "gifts.subtitle": "Отправляйте пользователям подарки, которые можно сохранить в их профиле.",
+    "gifts.empty": "У тебя пока нет подарков.",
+    "gifts.empty.link": "Открыть магазин",
+
+    "gifts.popup.title": "Отправить подарок",
+    "gifts.popup.primaryButton": "Отправить подарок контакту",
+    "gifts.popup.info.name": "Подарок",
+    "gifts.popup.info.date": "Дата",
+    "gifts.popup.info.price": "Цена",
+    "gifts.popup.info.availability": "Доступно",
+
+    "leaderboard.you": "Вы",
+    "leaderboard.gifts": "подарки",
+
+    "profile.giftsReceived": "полученно подарков",
+    "profile.recentActions": "Недавние действия",
+    "profile.empty": "У пользователя нет подарков",
+    "profile.emptyMe": "Вы можете купить подарок, чтобы получить его взамен.",
+
+    "history.title": "Недавние действия",
+    "history.subtitle": "Вот история ваших действий.",
+    "history.empty.primaryButton": "Открыть магазин",
+    "history.empty.title": "История пуста",
+    "history.empty.subtitlte": "Дарите и получайте подарки, так что здесь что-то есть.",
+    "history.to": "кому",
+    "history.from": "от",
+
+    "tab.store": "Магазин",
+    "tab.gifts": "Подарки",
+    "tab.leaderboard": "Лидерборд",
+    "tab.profile": "Профиль",
+
+    "gift.send": "Отправить",
+    "gift.soldOut": "Распродано",
+    "of": "из"
+
+}

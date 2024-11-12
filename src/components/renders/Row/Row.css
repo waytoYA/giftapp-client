@@ -1,0 +1,48 @@
+.row{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.row_image{
+    position: relative;
+}
+
+.row_image_action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1.33px solid #FFFFFF;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+
+    position: absolute;
+    bottom: 0;
+    right: -2px;
+    padding: 2.5px;
+}
+
+.row_information{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 12px;
+    padding: 9px 0;
+}
+
+.row + .row .row_information {
+    border-top: 0.33px solid var(--color-separator);
+}
+
+.row_information_main {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-right: 12px;
+}
+
+.row_information_main_subtitle{
+    font-size: 13px !important;
+}

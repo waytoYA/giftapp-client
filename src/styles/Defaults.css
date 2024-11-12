@@ -1,0 +1,124 @@
+.title {
+    font-weight: 590;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.43px;
+}
+
+.subtitle {
+    font-weight: 590;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.43px;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.43px;
+}
+
+.textbold {
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.43px;
+}
+
+.caption {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: -0.08px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
+.flex-between {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.primaryButton {
+    background: var(--color-primary);
+    border-radius: 100px;
+    padding: 3px 16px 3px 12px;
+
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: -0.08px;
+
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.primaryButton img {
+    width: 24px;
+    height: 24px;
+}
+
+.disableButton {
+    color: var(--color-label-secondary);
+    background: rgba(142, 142, 147, 0.1);
+    cursor: default;
+}
+
+.buttonSmall {
+    padding: 6px 25px;
+    line-height: 18px;
+}
+
+.currencyIcon {
+    display: inline;
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.page_info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 32px 16px 32px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.page_info .title {
+    margin: 16px 0 8px 0;
+}
+
+.page_items {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 16px;
+}
+
+.data {
+    padding: 0 16px;
+}
+
+.row_title {
+    width: 100%;
+    margin: 24px 0 12px;
+    text-align: left;
+    color: var(--color-label-secondary);
+    text-transform: uppercase;
+}
